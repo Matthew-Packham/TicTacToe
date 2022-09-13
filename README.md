@@ -5,11 +5,11 @@ Python implementation of TicTacToe. Includes a genius AI player, who never loses
 
 Clone the repo
 ```sh
-git clone [https://github.com/your_username_/Project-Name.git](https://github.com/Matthew-Packham/TicTacToe.git)
+git clone [https://github.com/Matthew-Packham/TicTacToe.git)]
 ```
 ## Usage
 
-```python
+```cmd
 import foobar
 
 # returns 'words'
