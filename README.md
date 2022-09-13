@@ -4,11 +4,10 @@ Python implementation of TicTacToe. Includes a genius AI player, who never loses
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
+Clone the repo
+```sh
+git clone https://github.com/your_username_/Project-Name.git
 ```
-
 ## Usage
 
 ```python
