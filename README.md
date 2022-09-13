@@ -16,5 +16,8 @@ run
 ```sh
 python3 game_class.py
 ```
+## Human vs Genius
+![](Human%20Vs%20Genius.png)
 
-![](Genius Vs Genius.png)
+## Genius vs Genius
+![](Genius%20Vs%20Genius.png)
