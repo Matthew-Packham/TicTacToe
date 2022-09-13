@@ -10,7 +10,7 @@ git clone https://github.com/Matthew-Packham/TicTacToe.git
 ## Usage
 In game_class.py file there are two options. Either play a single game or iterate over a number of games. 
 
-To play againest computer just uncomment the str and choose your players (be sure to comment option 2).
+To play against computer just uncomment the str (at bottom of code) and choose your players (be sure to comment option 2).
 
 run
 ```sh
