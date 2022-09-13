@@ -8,24 +8,12 @@ Clone the repo
 git clone [https://github.com/Matthew-Packham/TicTacToe.git)]
 ```
 ## Usage
+In game_class.py file there are two options. Either play a single game or iterate over a number of games. 
 
-```cmd
-import foobar
+To play againest computer just uncomment the str and choose your players (be sure to comment option 2).
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+run
+```sh
+python3 game_class.py
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
