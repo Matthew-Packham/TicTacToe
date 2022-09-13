@@ -9,7 +9,7 @@ The 'Genius AI' is based on the MinMax Algorithm.
 Minimax is a artificial intelligence applied in two player zero sum games, such as tic-tac-toe, checkers, chess and go. These games are known as zero-sum games, since either one player wins (+1) and other player loses (-1) or neither win (0).
 
 ### How does it works?
-The algorithm searches recursively, for the 'best' move - the move that given the current state maximises the utility of the 'Max' player and minimises the utility of the 'Min' player. The utility function is U = 1 * (state.num_empty_squares() + 1) if other_player == max_player else -1 * (state.num_empty_squares() + 1)
+The algorithm searches recursively, for the 'best' move - the move that given the current state maximises the utility of the 'Max' player and minimises the utility of the 'Min' player. The utility function is U = 1 * (`state.num_empty_squares()` + 1) if other_player == max_player else -1 * (`state.num_empty_squares()` + 1)
 
 
 t consider the current state of the game and the available moves at that state, then for each valid move it plays (alternating *min* and *max*) until it finds a terminal state (win, draw or lose).
