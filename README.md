@@ -5,7 +5,7 @@ Python implementation of TicTacToe. Includes a genius AI player, who never loses
 
 Clone the repo
 ```sh
-git clone [https://github.com/Matthew-Packham/TicTacToe.git)]
+git clone https://github.com/Matthew-Packham/TicTacToe.git
 ```
 ## Usage
 In game_class.py file there are two options. Either play a single game or iterate over a number of games. 
