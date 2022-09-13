@@ -1,7 +1,7 @@
 # TicTacToe
 Python implementation of TicTacToe. Includes a genius AI player, who never loses!
 
-The implementation includes two .py files. player_class.py (which contains all the Player classes and attributes - The different players inherit from the super class Player) and the game_class.py (which contains the TicTacToe class which contains all then neccesary methods to run the game).
+The implementation includes two .py files. `player_class.py` (which contains all the Player classes and attributes - The different players inherit from the super class Player) and the `game_class.py` (which contains the TicTacToe class which contains all then neccesary methods to run the game).
 
 The 'Genius AI' is based on the MinMax Algorithm.
 
