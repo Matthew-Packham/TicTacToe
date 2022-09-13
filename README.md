@@ -17,3 +17,4 @@ run
 python3 game_class.py
 ```
 
+![](Genius Vs Genius.png)
